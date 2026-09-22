@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;React.js+%26+Next.js+Specialist;REST+API+%7C+State+Management;Clean+Code+%7C+Reusable+Components" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Muhammad Ahmad's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 ### About Me
 
 ```javascript
@@ -111,14 +117,6 @@ class MuhammadAhmad {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
-<!-- ===================== 🐍 CONTRIBUTION SNAKE ===================== -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg"/>
-</picture>
-
 <!-- ===================== 📫 CONNECT WITH ME ===================== -->
 
 <div align="center">
@@ -128,3 +126,11 @@ class MuhammadAhmad {
   <a href="https://portfolio-rose-ahmad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
+
+<!-- ===================== 🐍 CONTRIBUTION SNAKE GAME ===================== -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg"/>
+</picture>
